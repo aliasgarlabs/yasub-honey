@@ -1,0 +1,15 @@
+{
+  "name": "yasubhoney",
+  "version": "1.0.0",
+  "description": "Yasub Honey website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Aliasgar Murtaza",
+  "license": "ISC",
+  "homepage": "https://aliasgarlabs.github.io/yasub-honey-website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
