@@ -7,6 +7,11 @@ AOS.init({
 
 	'use strict';
 
+  $('.carousel').carousel({
+    interval: 2000,
+    pause: "false"
+  });
+
 
   
   $(window).stellar({
